@@ -15,6 +15,7 @@ class Match {
     }
 }
 
+
 public class Assignment {
     public static void main(String[] args) {
         ArrayList<Match> matches = new ArrayList<>();
